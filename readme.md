@@ -9,3 +9,5 @@
 - телефон
 - вік
 3. Git-коміт «Init commit, Add class Employee»
+4. Створюємо два класи SameName (перший в packadge ua.hillel, другий в ua.hillel.name)
+5. Git-коміт «Add class SameName and name.SameName»
