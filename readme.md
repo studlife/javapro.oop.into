@@ -11,3 +11,6 @@
 3. Git-коміт «Init commit, Add class Employee»
 4. Створюємо два класи SameName (перший в packadge ua.hillel, другий в ua.hillel.name)
 5. Git-коміт «Add class SameName and name.SameName»
+6. Створення класу Car
+7. Git-коміт «Add class Car»
+8. Push commit в віддалений репзиторій
