@@ -1,6 +1,6 @@
 package ua.hillel.javapro.oop.intro;
 
-import ua.hillel.javapro.oop.intro.one.SameName;
+import ua.hillel.javapro.oop.intro.some.one.SameName;
 
 public class Application {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class Application {
         SameName oneName = new SameName();
 
         // Також можливо не імпортувати і вказати повний шлях до class
-        ua.hillel.javapro.oop.intro.two.SameName twoName = new ua.hillel.javapro.oop.intro.two.SameName();
+        ua.hillel.javapro.oop.intro.some.two.SameName twoName = new ua.hillel.javapro.oop.intro.some.two.SameName();
 
 
         Car car = new Car();
